@@ -15,11 +15,14 @@ joblib
 Matplotlib (for plotting)
 
 
+
+
 1. Data
 
 1.1 ODPC experiment initial 200 dataset: "ODPC Initial Data.xlsx"
 
 1.2 ODPC experiment final 200+27 dataset: "ODPC Final Data.xlsx"
+
 
 
 2. Source code
@@ -29,6 +32,7 @@ Matplotlib (for plotting)
 2.2 Execute artificial bee colony (ABC) algorithm for propylene yield: "ABC_exec_Yield.py"
 
 2.3 Execute artificial bee colony (ABC) algorithm for the score: "ABC_exec_Score.py"
+
 
 
 3. After executing ABC algorithm for the yield and score, you will get "sol_GBR_yield.csv" and "sol_GBR_score.csv" files. These files contain catalyst composition and its predicted yield and score.
