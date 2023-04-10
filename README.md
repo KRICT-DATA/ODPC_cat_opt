@@ -1,6 +1,4 @@
-# ODPC_cat_opt
-Closed-loop optimization of catalyst for oxidative propane dehydrogenation with CO2 (ODPC) using artificial intelligence
-This repository contains source code and dataset for the following paper: "(to be submitted)"
+This repository contains source code and dataset for the following paper: "Closed-loop optimization of catalyst for oxidative propane dehydrogenation with CO2 (ODPC) using artificial intelligence"
 
 0. Prerequisites
 Python 3.7 or later
