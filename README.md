@@ -2,7 +2,6 @@ This repository contains source code and dataset for the following paper: "Close
 
 0. Prerequisites
 Python 3.7 or later
-
 NumPy 
 Pandas
 Scikit-learn
