@@ -1,7 +1,7 @@
 This repository contains source code and dataset for the following paper: "Closed-loop optimization of catalyst for oxidative propane dehydrogenation with CO2 (ODPC) using artificial intelligence"
 
 0. Prerequisites
-Python 3.7 or later
+Python 3.7 or later\n
 NumPy 
 Pandas
 Scikit-learn
