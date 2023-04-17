@@ -27,10 +27,10 @@ Matplotlib (for plotting)
 
 2.1 Leave-one-out cross-validation (LOOCV) of gradient-boosted decision trees (GBDT) model and final training: type "python LOOCV_and_model_training.py"
 
-2.2 Execute artificial bee colony (ABC) algorithm for propylene yield: "ABC_exec_Yield.py"
+2.2 Execute artificial bee colony (ABC) algorithm for propylene yield: type "python ABC_exec_Yield.py"
 
-2.3 Execute artificial bee colony (ABC) algorithm for the score: "ABC_exec_Score.py"
+2.3 Execute artificial bee colony (ABC) algorithm for the score: type "python ABC_exec_Score.py"
 
 
 
-3. After executing ABC algorithm for the yield and score, you will get "sol_GBR_yield.csv" and "sol_GBR_score.csv" files. These files contain catalyst composition and its predicted yield and score.
+3. After executing ABC algorithm for the yield and score, you will get "sol_GBR_yield.csv" and "sol_GBR_score.csv" files. These files contain catalyst composition and its predicted yield and score. 
