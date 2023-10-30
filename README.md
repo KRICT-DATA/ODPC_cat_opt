@@ -1,21 +1,16 @@
 This repository contains source code and dataset for the following paper: "Closed-loop optimization of catalyst for oxidative propane dehydrogenation with CO2 (ODPC) using artificial intelligence"
 
-0. Prerequisites
+## 0. Prerequisites
 
-Python 3.7 or later
-
-NumPy 
-
-Pandas
-
-Scikit-learn
-
-joblib
-
-Matplotlib (for plotting)
+* Python 3.7 or later
+* [NumPy](https://numpy.org/install/) 
+* [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
+* [Scikit-learn](https://scikit-learn.org/stable/install.html)
+* [joblib](https://joblib.readthedocs.io/en/stable/installing.html)
+* [Matplotlib](https://matplotlib.org/stable/) (for plotting)
 
 
-1. Data
+## 1. Data
 
 1.1 ODPC experiment initial 200 dataset: "ODPC Initial Data.xlsx"
 
@@ -23,7 +18,7 @@ Matplotlib (for plotting)
 
 
 
-2. Source code
+## 2. Source code
 
 2.1 Leave-one-out cross-validation (LOOCV) of gradient-boosted decision trees (GBDT) model and final training: type "python LOOCV_and_model_training.py"
 
@@ -32,5 +27,4 @@ Matplotlib (for plotting)
 2.3 Execute artificial bee colony (ABC) algorithm for the score: type "python ABC_exec_Score.py"
 
 
-
-3. After executing ABC algorithm for the yield and score, you will get "sol_GBR_yield.csv" and "sol_GBR_score.csv" files. These files contain catalyst composition and its predicted yield and score. 
+After executing ABC algorithm for the yield and score, you will get "sol_GBR_yield.csv" and "sol_GBR_score.csv" files. These files contain catalyst composition and its predicted yield and score. 
