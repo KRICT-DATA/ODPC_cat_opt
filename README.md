@@ -1,4 +1,4 @@
-This repository contains source code and dataset for the following paper: "Closed-loop optimization of catalyst for oxidative propane dehydrogenation with CO2 (ODPC) using artificial intelligence"
+This repository contains source code and dataset for the following paper: "Closed-loop optimization of catalyst for oxidative propane dehydrogenation with CO2 (ODPC) using artificial intelligence" [link](https://doi.org/10.1016/j.jcou.2023.102620)
 
 ## 0. Prerequisites
 
